@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,900;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,900;1,700&display=swap');
+*{
+    list-style: none;
+    color: black;
+  }
+  .flogo{
+      width: 168px;    
+  }
+ ul{
+     display: flex;
+     margin-top: -2%;
+     margin-left: 73%;
+     position: relative;
+     left: -13cm;
+ }
+ .pp{
+     color: #000000;
+     font-family: 'Montserrat', sans-serif;
+     
+ }
+ li{
+     width: 100%;
+     font-size: 19px;
+     color: #8B8989;
+     padding-right: 30%;
+    
+ }
+ .fl{
+    top: 122px;
+    width: 1342px;
+    height: 500px;
+ }
+ .texto1{
+     position: absolute;
+     text-align: start;
+     top: 31%;
+     width: 100%;
+     left: 10%;
+     font-size: 400%;
+     color: #F8F8FF;
+     font-family: 'Montserrat', sans-serif;
+
+ }
+ .texto2{
+    position: absolute;
+    text-align:start;
+    top: 57%;
+    left: 10%;
+    color: #F8F8FF;
+    font-size: 150%;
+    font-family: 'Montserrat', sans-serif;
+ }
+.a20{
+    position: absolute;
+    width: 260px;
+    left: 7%;
+}
+.a22{
+    position: absolute;
+    width: 260px;
+    left: 27%;
+}
+.a21{
+    position: absolute;
+    width: 260px;
+    left: 47%;
+}
+.nopach{
+    position: absolute;
+    width: 260px;
+    left: 67%;
+}
+.a25{
+    position: absolute;
+    width: 260px;
+    left: 7%;
+    top: 838.5px;
+} 
+.a27{
+    position: absolute;
+    width: 260px;
+    left: 27%;
+    top: 838.5px;
+}   
+.a29{
+    position: absolute;
+    width: 260px;
+    left: 47%;
+    top: 838.5px;
+}
+.a23{
+    position: absolute;
+    width: 260px;
+    left: 67%;
+    top: 838.5px;
+}
+.a31{
+    position: absolute;
+    width: 260px;
+    left: 7%;
+    top: 1105px;
+}
+.a32{
+    position: absolute;
+    width: 260px;
+    left: 27%;
+    top: 1105px;
+}
+.a34{
+    position: absolute;
+    width: 260px;
+    left: 47%;
+    top: 1105px;
+}
+.a33{
+    position: absolute;
+    width: 260px;
+    left: 67%;
+    top: 1105px;
+}
+.fin{
+    position: absolute;
+    top: 1400px;
+    left: -1px;
+    height: 115px;
+}
+.facebook{
+    position: absolute;
+    top: 1430px;
+    left: 7%;
+}
+.twitter{
+    position: absolute;
+    top: 1430px;
+    left: 10%;
+}
+.instagram{
+    position: absolute;
+    top: 1430px;
+    left: 14.4%;
+}
+.telegran{
+    position: absolute;
+    top: 1430px;
+    left: 18%;
+}
+.whatsapp{
+    position: absolute;
+    top: 1430px;
+    left: 22.1%;
+}
+.youtube{
+    position: absolute;
+    top: 1430px;
+    left: 26%;
+}
+h1{
+    position: absolute;
+    top: 1404px;
+    left: 46%;
+}
+h2{
+    display: flex;
+    position: absolute;
+    top: 1404px;
+    left: 58%;
+    width: 100%;
+    font-size: 18px;
+    color: #8B8989;
+    
+}
+h3{
+    display: flex;
+    position: absolute;
+    top: 1420px;
+    left: 58%;
+    width: 100%;
+    font-size: 18px;
+    color: #8B8989;
+}
